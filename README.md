@@ -11,6 +11,8 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
+https://changeable-princess-933.notion.site/Docker-Compose-364ac232fb4743199ff5bc3100f329b4
+
 ## system requirements
 - PHP >= 8.1
 - Composer >= 2.1.9
